@@ -1,1 +1,2 @@
-select * from tab
+select col1 from tab
+
