@@ -1,2 +1,2 @@
-select col1 from tab
+select col1,col2 from tab
 
